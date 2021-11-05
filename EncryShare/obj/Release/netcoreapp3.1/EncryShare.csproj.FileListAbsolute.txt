@@ -1,0 +1,37 @@
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.exe
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.deps.json
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.runtimeconfig.json
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.runtimeconfig.dev.json
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.dll
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.pdb
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.ClientForm.resources
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.Form1.resources
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.ServerForm.resources
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csproj.GenerateResource.cache
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.AssemblyInfoInputs.cache
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.AssemblyInfo.cs
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csproj.CoreCompileInputs.cache
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.dll
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.pdb
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\AlexC-ux\source\repos\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csprojAssemblyReference.cache
+=======
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.exe
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.deps.json
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.runtimeconfig.json
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.runtimeconfig.dev.json
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.dll
+D:\Hobby\program\EncryShare\EncryShare\bin\Release\netcoreapp3.1\EncryShare.pdb
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csprojAssemblyReference.cache
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.ClientForm.resources
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.Form1.resources
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.ServerForm.resources
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csproj.GenerateResource.cache
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.AssemblyInfoInputs.cache
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.AssemblyInfo.cs
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.csproj.CoreCompileInputs.cache
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.dll
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.pdb
+D:\Hobby\program\EncryShare\EncryShare\obj\Release\netcoreapp3.1\EncryShare.genruntimeconfig.cache
+>>>>>>> 726178bbec83e1d85d5600ebfa5facd40c56b6af
